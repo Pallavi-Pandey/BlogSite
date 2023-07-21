@@ -5,13 +5,6 @@
 # Local Development Run
 - `local_run.sh` It will start the flask app in `development`. Suited for local development
 
-# Replit run
-- Go to shell and run
-    `pip install --upgrade poetry`
-- Click on `main.py` and click button run
-- Sample project is at https://replit.com/@saivineeth09/BlogLiteApp
-- The web app will be availabe at https://blogliteapp--saivineeth09.repl.co/
-- Format https://<replname>.<username>.repl.co
 
 # Folder Structure
 
